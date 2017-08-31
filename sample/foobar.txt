@@ -1,6 +1,0 @@
-line one: just add a file to test the git
-line two: hahaha...
-line tree: nothing
-line four: skdfjlsjdlf
-line five：第五次提交
-=======
